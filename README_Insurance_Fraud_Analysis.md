@@ -1,5 +1,6 @@
 
 # 🧠 Insurance Fraud Analysis Dashboard
+![Dashboard Screenshot](Insureance_Project)
 
 ## 📋 Project Overview
 This project analyzes **insurance claims data** to identify **potential fraud cases** and provide **key business insights**.  
